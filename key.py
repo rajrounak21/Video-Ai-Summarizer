@@ -1,2 +1,1 @@
-GROQ_API_KEY="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"
-GOOGLE_API_KEY="AIzaSyB0bNQqpjN-vxVORcwwFhL7DQqttH32RuI"
+GOOGLE_API_KEY="Your gemini api key"
